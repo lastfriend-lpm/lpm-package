@@ -1,1 +1,1 @@
-counter|1.0.0|Счётчик запусков|packages/counter.lp
+counter|1.0.0|Счётчик запусков|counter.lp
